@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    color: #252539;
+    background-color: #e9ebfb;
+}
+
+.container {
+    margin: auto;
+    padding-top: 40px;
+    width: 80%;
+    text-align: center;
+}
+
+#container_input {
+    font-size: 0.8em;
+    line-height: 2;
+    width: 500px;
+    max-width: 100%;
+    padding: 8px 16px;
+    border-radius: 2px;
+}
+
+#container_result {
+    color: #fff;
+    padding: 5px 8px;
+    background-color: #4783f1;
+    transition: all .25s;
+}
