@@ -1,4 +1,4 @@
-# Easy Bin2Dec Converter
+# Easy Bin2Dec Converter 🔧 
 
 Built an easy, fun to use Binary 2 Decimal converter using HTML, CSS(Basic) and JAVASCRIPT(Basic)
 
